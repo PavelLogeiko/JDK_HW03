@@ -15,6 +15,6 @@
 
 ![2](https://github.com/PavelLogeiko/JDK_HW03/blob/main/images/2.png)
 
-Скрин к заданиб 3
+Скрин к заданию 3
 
 ![3](https://github.com/PavelLogeiko/JDK_HW03/blob/main/images/3.png)
